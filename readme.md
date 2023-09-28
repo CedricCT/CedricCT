@@ -1,6 +1,6 @@
 <div align='center'>
 
-### My name is Cédric Cubat and I am a full stack web developer specializing in data science and machine learning
+### My name is Cédric and I am a full stack web developer specializing in data science and machine learning
 
 <a href="https://cedriccubat.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 &nbsp;&nbsp;
