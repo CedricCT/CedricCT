@@ -2,7 +2,7 @@
 
 ### My name is Cédric and I am a full stack web developer specializing in data science and machine learning
 
-<a href="https://cedriccubat.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+<a href="https://cedriccubat.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cedriccubat-candidat-alternance-ia-data-machine-learning-2023-nice/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
